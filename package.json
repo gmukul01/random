@@ -61,11 +61,5 @@
     "prettier": "@medly/prettier-config",
     "eslintConfig": {
         "extends": "@medly"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/mbansal-experiments/random.git"
-    },
-    "homepage": "https://github.com/mbansal-experiments/random#readme",
-    "bugs": "https://github.com/mbansal-experiments/random/issues"
+    }
 }
